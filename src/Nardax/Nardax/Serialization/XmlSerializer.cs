@@ -6,7 +6,9 @@ using System.Xml.Serialization;
 namespace Nardax.Serialization
 {
     public class XmlSerializer<T> : ISerializer<T, string>
-    {
+    {xxxxxxxxxxxxxxxxx
+            xxxxxxxxxxxxxx
+            xxxxxxxxxxxxxxxxx
         // Serialiserar ett värde som xml med valfri typ
 
         public string Serialize(T value)
